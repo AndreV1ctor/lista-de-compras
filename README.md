@@ -4,3 +4,4 @@
 - Ele percorre a lista e mostra as informações de cada item.
 - Ele identifica o produto mais barato e o produto mais caro da lista de compras e os exibe.
 - Ao final, o programa pergunta ao usuário se deseja inserir uma nova lista de compras ou se deseja encerrar o programa.
+- :D
